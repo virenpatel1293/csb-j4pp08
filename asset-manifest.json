@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-j4pp08/static/css/main.css",
+    "main.js": "https://.github.io/csb-j4pp08/static/js/main.js",
+    "main.js.map": "https://.github.io/csb-j4pp08/static/js/main.js.map",
+    "index.html": "https://.github.io/csb-j4pp08/index.html",
+    "static/css/main.css.map": "https://.github.io/csb-j4pp08/static/css/main.css.map",
+    "static/js/main.js.LICENSE.txt": "https://.github.io/csb-j4pp08/static/js/main.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/css/main.css",
+    "static/js/main.js"
+  ]
+}
